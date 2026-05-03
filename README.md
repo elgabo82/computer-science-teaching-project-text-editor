@@ -1,3 +1,19 @@
+# Computer Science Teaching Projects
+
+## Description
+Simple Text-Editor project used for teaching programming, data structures, and system concepts.
+
+## Technologies
+- Java
+
+## Features
+- Algorithms and data structures examples
+- Programming exercises
+- Practical academic implementations
+
+## Purpose
+Supports teaching and demonstrates applied knowledge in computer science education.
+
 # Editor de Texto Múltiple
 Editor de código y de texto.
 Desarrollado por: Gabriel Eduardo Morejón López
